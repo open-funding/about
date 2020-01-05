@@ -1,4 +1,4 @@
-# Open Quadratic Funding Platform
+# Open Funding
 
 We're building an open platform for running CLR / quadratic funding pilots, as discussed in [this Ethereum Magicians thread](https://ethereum-magicians.org/t/identity-and-quadratic-funding-standards-to-help-fund-projects-and-commons/3835/5) and [this Twitter thread](https://twitter.com/paulcowgill/status/1203759229359853568).
 
