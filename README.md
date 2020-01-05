@@ -6,7 +6,7 @@ This project is open-source and in need of additional funding to sustain work on
 
 `0xb2e7e101b8248021be72e76890ea24cfad967aec` ([Etherscan](https://etherscan.io/address/0xb2e7e101b8248021be72e76890ea24cfad967aec))
 
-CRL / quadratic funding put as simply as possible:
+CLR / quadratic funding put as simply as possible:
 
 **small contributions from lots of people get "bonus points"**
 
