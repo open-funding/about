@@ -15,3 +15,5 @@ The aim is to productize Gitcoin Grants and let people use it more generally for
 *Note: If this project doesn't get the equivalent of 5,000 in DAI/SAI during Gitcoin Grants CLR Round 4, we'll refund people's contributions (minus transaction costs).*
 
 Eventually the contributors to this project would like to work with other teams on developing an EIP / standard, but it's too early for that now - more direct experimentation is needed.
+
+Twitter: [@OpenFundingApp](https://twitter.com/OpenFundingApp)
