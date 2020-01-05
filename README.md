@@ -2,6 +2,10 @@
 
 We're building an open platform for running CLR / quadratic funding pilots, as discussed in [this Ethereum Magicians thread](https://ethereum-magicians.org/t/identity-and-quadratic-funding-standards-to-help-fund-projects-and-commons/3835/5) and [this Twitter thread](https://twitter.com/paulcowgill/status/1203759229359853568).
 
+This project is open-source and in need of additional funding to sustain work on it. If you're able to contribute, please consider [supporting the project on Gitcoin Grants](https://gitcoin.co/grants/230/open-funding) or sending ETH, SAI, or DAI to the Open Funding project's contract address:
+
+`0xb2e7e101b8248021be72e76890ea24cfad967aec` ([Etherscan](https://etherscan.io/address/0xb2e7e101b8248021be72e76890ea24cfad967aec))
+
 CRL / quadratic funding put as simply as possible:
 
 **small contributions from lots of people get "bonus points"**
